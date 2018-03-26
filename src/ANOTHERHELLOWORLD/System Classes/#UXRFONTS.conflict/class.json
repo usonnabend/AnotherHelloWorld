@@ -1,18 +1,21 @@
 {
 	"classtype": "kSystemtable",
-	"internalversion": 3,
-	"nextident": 3,
+	"internalversion": 1,
 	"properties": {
 		"componenttype": "kCompStoreHidden",
 		"createdate": "2018-03-26 14:48:31",
 		"desc": "",
 		"external": false,
-		"moddate": "2018-03-26 15:50:08",
+		"moddate": "2018-03-26 14:48:31",
 		"showascheckedout": false,
 		"userinfo": "",
 		"version": ""
 	},
-	"styles": [
-
+	"fonts": [
+		"-adobe-helvetica-",
+		"-adobe-courier-",
+		"-adobe-times-",
+		"-adobe-helvetica-",
+		"-adobe-times-"
 	]
 }

@@ -1,18 +1,16 @@
 {
-	"classtype": "kSystemtable",
-	"internalversion": 3,
-	"nextident": 3,
+	"classtype": "kFolder",
+	"internalversion": 0,
 	"properties": {
 		"componenttype": "kCompStoreHidden",
 		"createdate": "2018-03-26 14:48:31",
 		"desc": "",
+		"editor": "",
+		"editordata": "",
 		"external": false,
-		"moddate": "2018-03-26 15:50:08",
+		"moddate": "2018-03-26 14:48:31",
 		"showascheckedout": false,
 		"userinfo": "",
 		"version": ""
-	},
-	"styles": [
-
-	]
+	}
 }
